@@ -11,7 +11,7 @@
 ## 🚀 Tecnologias Utilizadas
 
 - `DART` e `Flutter(futuramente)`.
-- `Github`, `Visual Studio Code`.
+- `Github` e `Visual Studio Code`.
 
 ---
 
