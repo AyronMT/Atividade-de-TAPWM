@@ -23,7 +23,7 @@ Acompanhamento das atividades propostas durante o semestre:
   - 📅 *Período:* 23/03 a 29/03
   - 📂 *Link para a pasta:* [Acessar código](https://github.com/AyronMT/Atividades-de-TAPWM/tree/main/primeiro_trabalho_parcial).
 
-- [ ] **2° Trabalho Parcial — Comando Condicional**
+- [x] **2° Trabalho Parcial — Comando Condicional**
   - 📅 *Período:* 30/03 a 06/04
   - 📂 *Link para a pasta:* [Acessar código](https://github.com/AyronMT/Atividades-de-TAPWM/tree/main/segundo_trabalho_parcial).
 
