@@ -37,6 +37,7 @@ Como os arquivos estão organizados:
  ┗ 📜 .gitignore
  ┗ 📜 LICENSE
  ┗ 📜 README.md
+```
 
 ---
 
