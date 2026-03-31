@@ -9,10 +9,9 @@
 ---
 
 ## 🚀 Tecnologias Utilizadas
-*Liste aqui as linguagens e ferramentas que você está aprendendo na matéria. Exemplo:*
-- `HTML5` & `CSS3`
-- `JavaScript`
-- *(Adicione outras tecnologias conforme o curso avançar, ex: React, Node.js, etc)*
+
+- `DART` e `Flutter(futuramente)`.
+- `Github` e `Visual Studio Code`.
 
 ---
 
@@ -22,11 +21,11 @@ Acompanhamento das atividades propostas durante o semestre:
 
 - [x] **1º Trabalho Parcial — Operadores Aritméticos** 
   - 📅 *Período:* 23/03 a 29/03
-  - 📂 *Link para a pasta:* [Acessar código](./caminho-da-sua-pasta-aqui) *(Opcional: coloque o link da pasta quando criar)*
+  - 📂 *Link para a pasta:* [Acessar código](https://github.com/AyronMT/Atividades-de-TAPWM/tree/main/primeiro_trabalho_parcial).
 
 - [ ] **2° Trabalho Parcial — Comando Condicional**
   - 📅 *Período:* 30/03 a 06/04
-  - 📂 *Link para a pasta:* A definir...
+  - 📂 *Link para a pasta:* [Acessar código](https://github.com/AyronMT/Atividades-de-TAPWM/tree/main/segundo_trabalho_parcial).
 
 - [ ] **Próximas atividades...**
 
@@ -36,11 +35,28 @@ Acompanhamento das atividades propostas durante o semestre:
 
 Como os arquivos estão organizados:
 
-```text
-📦 seu-repositorio
- ┣ 📂 01-Operadores-Aritmeticos
- ┃ ┣ 📜 index.html
- ┃ ┗ 📜 script.js
- ┣ 📂 02-Comandos-Condicionais
- ┃ ┗ 📜 (arquivos futuros)
+```
+📦 Atividades-de-TAPWM
+ ┣ 📂 primeiro_trabalho_parcial
+ ┃ ┣ 📂bin
+ ┃ ┃ ┗ 📜Exercicio1.dart
+ ┃ ┃ ┗ 📜Exercicio2.dart
+ ┃ ┃ ┗ 📜Exercicio3.dart
+ ┃ ┃ ┗ 📜Exercicio4.dart
+ ┃ ┃ ┗ 📜Exercicio5.dart
+ ┣ 📂 segundo_trabalho_parcial
+ ┃ ┣ 📂bin
+ ┃ ┃ ┗ 📜Exercicio1.dart
+ ┃ ┃ ┗ 📜Exercicio2.dart
+ ┃ ┃ ┗ 📜Exercicio3.dart
+ ┃ ┃ ┗ 📜Exercicio4.dart
+ ┃ ┃ ┗ 📜Exercicio5.dart
+ ┃ ┃ ┗ 📜Exercicio6.dart
+ ┃ ┃ ┗ 📜Exercicio7.dart
+ ┃ ┃ ┗ 📜Exercicio8.dart
+ ┣ 📂 (Próximas atividades...)
+ ┃ ┣ 📂bin
+ ┃ ┃ ┗ 📜(próximos exercícios...).dart
+ ┗ 📜 .gitignore
+ ┗ 📜 LICENSE
  ┗ 📜 README.md
