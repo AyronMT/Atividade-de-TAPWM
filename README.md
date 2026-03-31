@@ -8,29 +8,6 @@
 
 ---
 
-## 🚀 Tecnologias Utilizadas
-
-- `DART` e `Flutter(futuramente)`.
-- `Github` e `Visual Studio Code`.
-
----
-
-## 📋 Lista de Tarefas e Progresso
-
-Acompanhamento das atividades propostas durante o semestre:
-
-- [x] **1º Trabalho Parcial — Operadores Aritméticos** 
-  - 📅 *Período:* 23/03 a 29/03
-  - 📂 *Link para a pasta:* [Acessar código](https://github.com/AyronMT/Atividades-de-TAPWM/tree/main/primeiro_trabalho_parcial).
-
-- [x] **2° Trabalho Parcial — Comando Condicional**
-  - 📅 *Período:* 30/03 a 06/04
-  - 📂 *Link para a pasta:* [Acessar código](https://github.com/AyronMT/Atividades-de-TAPWM/tree/main/segundo_trabalho_parcial).
-
-- [ ] **Próximas atividades...**
-
----
-
 ## 📁 Estrutura do Repositório
 
 Como os arquivos estão organizados:
@@ -60,3 +37,29 @@ Como os arquivos estão organizados:
  ┗ 📜 .gitignore
  ┗ 📜 LICENSE
  ┗ 📜 README.md
+
+---
+
+## 📋 Lista de Tarefas e Progresso
+
+Acompanhamento das atividades propostas durante o semestre:
+
+- [x] **1º Trabalho Parcial — Operadores Aritméticos** 
+  - 📅 *Período:* 23/03 a 29/03
+  - 📂 *Link para a pasta:* [Acessar código](https://github.com/AyronMT/Atividades-de-TAPWM/tree/main/primeiro_trabalho_parcial).
+
+- [x] **2° Trabalho Parcial — Comando Condicional**
+  - 📅 *Período:* 30/03 a 06/04
+  - 📂 *Link para a pasta:* [Acessar código](https://github.com/AyronMT/Atividades-de-TAPWM/tree/main/segundo_trabalho_parcial).
+
+- [ ] **Próximas atividades...**
+
+---
+
+## 🚀 Tecnologias Utilizadas
+
+- `DART` e `Flutter(futuramente)`.
+- `Github` e `Visual Studio Code`.
+
+---
+
