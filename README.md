@@ -31,9 +31,17 @@ Como os arquivos estão organizados:
  ┃ ┃ ┗ 📜Exercicio6.dart
  ┃ ┃ ┗ 📜Exercicio7.dart
  ┃ ┃ ┗ 📜Exercicio8.dart
- ┣ 📂 (Próximas atividades...)
+ ┣ 📂 terceiro_trabalho_parcial
  ┃ ┣ 📂bin
- ┃ ┃ ┗ 📜(próximos exercícios...).dart
+ ┃ ┃ ┗ 📜exercicio1.dart
+ ┃ ┃ ┗ 📜exercicio2.dart
+ ┃ ┃ ┗ 📜exercicio3.dart
+ ┃ ┃ ┗ 📜exercicio4.dart
+ ┃ ┃ ┗ 📜exercicio5.dart
+ ┃ ┃ ┗ 📜exercicio6.dart
+ ┃ ┃ ┗ 📜exercicio7.dart
+ ┃ ┃ ┗ 📜exercicio8.dart
+ ┃ ┃ ┗ 📜exercicio9.dart
  ┗ 📜 .gitignore
  ┗ 📜 LICENSE
  ┗ 📜 README.md
@@ -53,7 +61,9 @@ Acompanhamento das atividades propostas durante o semestre:
   - 📅 *Período:* 30/03 a 06/04
   - 📂 *Link para a pasta:* [Acessar código](https://github.com/AyronMT/Atividades-de-TAPWM/tree/main/segundo_trabalho_parcial).
 
-- [ ] **Próximas atividades...**
+- [ ] **3° Trabalho Parcial**
+  - 📅 *Período:* 06/04 a 13/04
+  - 📂 *Link para a pasta:* [Acessar código](https://github.com/AyronMT/Atividades-de-TAPWM/tree/main/terceiro_trabalho_parcial).
 
 ---
 
